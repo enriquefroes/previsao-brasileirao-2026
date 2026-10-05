@@ -94,7 +94,7 @@ Seis clubes ainda disputam semifinais de copas: Flamengo, Palmeiras e Fluminense
 | Vasco | 4 | 15% de rebaixamento | **18%** de rebaixamento |
 | Grêmio | 3 | 62% de rebaixamento | 63% de rebaixamento |
 
-O Galo é o time mais afetado pelo calendário. E há um choque de datas importante: a **final da Libertadores (28/11) é na véspera da 37ª rodada** (29/11).
+O Galo é o time mais afetado pelo calendário.
 
 ---
 
