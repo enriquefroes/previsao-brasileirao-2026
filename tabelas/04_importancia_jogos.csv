@@ -1,0 +1,102 @@
+rodada,data,mandante,visitante,jogo,imp_titulo,imp_top4,imp_top6,imp_z4,importancia
+34,2026-11-05,Cruzeiro,Bahia,Cruzeiro x Bahia,0.0,46.9,54.9,0.0,101.8
+38,2026-12-02,Bahia,Atlético-MG,Bahia x Atlético-MG,0.0,33.8,63.2,0.0,96.9
+33,2026-10-29,Atlético-MG,Cruzeiro,Atlético-MG x Cruzeiro,0.0,35.5,58.5,0.0,94.0
+37,2026-11-29,Fluminense,Cruzeiro,Fluminense x Cruzeiro,0.1,59.6,32.1,0.0,91.8
+29,2026-10-08,Athletico-PR,Atlético-MG,Athletico-PR x Atlético-MG,0.3,37.9,33.0,0.0,71.2
+32,2026-10-24,Santos,Bahia,Santos x Bahia,0.0,23.6,45.5,0.1,69.2
+31,2026-10-18,Grêmio,Cruzeiro,Grêmio x Cruzeiro,0.0,20.1,21.6,26.2,67.9
+30,2026-10-11,Atlético-MG,Santos,Atlético-MG x Santos,0.0,15.7,50.6,0.1,66.3
+38,2026-12-02,Cruzeiro,Internacional,Cruzeiro x Internacional,0.0,18.1,22.2,25.5,65.9
+35,2026-11-18,Grêmio,Bahia,Grêmio x Bahia,0.0,17.5,22.3,26.1,65.9
+36,2026-11-22,Palmeiras,Flamengo,Palmeiras x Flamengo,64.7,0.2,0.0,0.0,64.8
+31,2026-10-18,Fluminense,Santos,Fluminense x Santos,0.1,32.6,30.9,0.0,63.6
+30,2026-10-11,Grêmio,Internacional,Grêmio x Internacional,0.0,0.0,0.0,62.1,62.2
+33,2026-10-28,Fluminense,Internacional,Fluminense x Internacional,0.1,24.0,11.3,26.2,61.6
+30,2026-10-11,Bahia,Mirassol,Bahia x Mirassol,0.0,17.2,24.3,19.5,61.1
+31,2026-10-16,Mirassol,Internacional,Mirassol x Internacional,0.0,0.0,0.0,58.3,58.4
+31,2026-10-18,Bahia,Flamengo,Bahia x Flamengo,16.6,19.4,21.7,0.0,57.7
+36,2026-11-22,Fluminense,Mirassol,Fluminense x Mirassol,0.1,25.5,10.6,20.1,56.4
+35,2026-11-18,Mirassol,Atlético-MG,Mirassol x Atlético-MG,0.0,11.5,23.7,21.0,56.2
+29,2026-10-08,Palmeiras,Bahia,Palmeiras x Bahia,14.7,21.2,20.1,0.0,56.1
+38,2026-12-02,Grêmio,Mirassol,Grêmio x Mirassol,0.0,0.0,0.0,55.3,55.3
+35,2026-11-18,Cruzeiro,Palmeiras,Cruzeiro x Palmeiras,14.8,19.8,20.6,0.0,55.2
+32,2026-10-26,Flamengo,Atlético-MG,Flamengo x Atlético-MG,16.9,12.3,24.8,0.0,54.0
+34,2026-11-06,Vitória,Fluminense,Vitória x Fluminense,0.1,23.9,9.3,19.8,53.0
+37,2026-11-29,Corinthians,Grêmio,Corinthians x Grêmio,0.0,0.0,0.2,52.5,52.6
+33,2026-10-29,Grêmio,Athletico-PR,Grêmio x Athletico-PR,0.2,19.7,5.0,26.9,51.8
+36,2026-11-22,Internacional,Vitória,Internacional x Vitória,0.0,0.0,0.2,51.5,51.7
+30,2026-10-12,Bragantino,Cruzeiro,Bragantino x Cruzeiro,0.0,20.4,29.1,0.7,50.2
+33,2026-10-28,Bahia,São Paulo,Bahia x São Paulo,0.0,16.8,31.2,1.4,49.4
+36,2026-11-22,Atlético-MG,Corinthians,Atlético-MG x Corinthians,0.0,10.4,24.6,13.5,48.4
+36,2026-11-22,Bahia,Coritiba,Bahia x Coritiba,0.0,16.9,28.4,2.7,48.0
+30,2026-10-11,Flamengo,Fluminense,Flamengo x Fluminense,19.7,21.8,6.3,0.0,47.8
+29,2026-10-07,Cruzeiro,São Paulo,Cruzeiro x São Paulo,0.0,18.4,27.8,1.4,47.6
+35,2026-11-18,Vasco,Internacional,Vasco x Internacional,0.0,0.0,0.2,47.0,47.2
+37,2026-11-29,Botafogo,Bahia,Botafogo x Bahia,0.0,18.1,25.0,3.8,47.0
+32,2026-10-23,Cruzeiro,Remo,Cruzeiro x Remo,0.0,17.8,21.6,7.2,46.6
+34,2026-11-04,Flamengo,Grêmio,Flamengo x Grêmio,19.0,0.0,0.0,26.5,45.5
+37,2026-11-29,Mirassol,Athletico-PR,Mirassol x Athletico-PR,0.2,19.4,4.3,21.4,45.3
+32,2026-10-24,Vitória,Athletico-PR,Vitória x Athletico-PR,0.2,20.0,4.9,19.3,44.3
+37,2026-11-29,Atlético-MG,Vasco,Atlético-MG x Vasco,0.0,8.8,23.5,12.0,44.3
+29,2026-10-07,Internacional,Corinthians,Internacional x Corinthians,0.0,0.0,0.3,43.9,44.2
+34,2026-11-04,Botafogo,Atlético-MG,Botafogo x Atlético-MG,0.0,11.2,28.0,3.4,42.7
+33,2026-10-30,Corinthians,Mirassol,Corinthians x Mirassol,0.0,0.0,0.2,42.0,42.2
+31,2026-10-19,Corinthians,Vitória,Corinthians x Vitória,0.0,0.0,0.2,41.8,42.0
+38,2026-12-02,Bragantino,Fluminense,Bragantino x Fluminense,0.1,24.9,15.2,0.8,41.1
+34,2026-11-04,Athletico-PR,Vasco,Athletico-PR x Vasco,0.2,21.6,6.1,12.9,40.8
+36,2026-11-22,Santos,Grêmio,Santos x Grêmio,0.0,2.9,13.8,24.1,40.7
+38,2026-12-02,Vasco,Vitória,Vasco x Vitória,0.0,0.0,0.2,40.0,40.2
+29,2026-10-08,Fluminense,Coritiba,Fluminense x Coritiba,0.1,24.9,12.2,2.7,39.9
+36,2026-11-22,Chapecoense,Cruzeiro,Chapecoense x Cruzeiro,0.0,19.1,20.6,0.1,39.8
+31,2026-10-17,Athletico-PR,Palmeiras,Athletico-PR x Palmeiras,16.9,18.3,3.8,0.0,39.0
+37,2026-11-29,Vitória,Santos,Vitória x Santos,0.0,3.2,15.8,20.0,39.0
+31,2026-10-17,Atlético-MG,Coritiba,Atlético-MG x Coritiba,0.0,9.4,27.3,2.2,38.9
+29,2026-10-08,Santos,Flamengo,Santos x Flamengo,16.8,4.1,17.7,0.1,38.7
+35,2026-11-18,São Paulo,Fluminense,São Paulo x Fluminense,0.1,23.5,12.9,1.9,38.4
+33,2026-10-28,Santos,Palmeiras,Santos x Palmeiras,15.6,4.3,16.7,0.1,36.7
+35,2026-11-18,Flamengo,Athletico-PR,Flamengo x Athletico-PR,17.2,16.1,3.4,0.0,36.6
+36,2026-11-22,Athletico-PR,Remo,Athletico-PR x Remo,0.2,21.1,6.7,7.8,35.8
+32,2026-10-26,Coritiba,Grêmio,Coritiba x Grêmio,0.0,0.1,1.5,33.2,34.8
+32,2026-10-24,Vasco,Corinthians,Vasco x Corinthians,0.0,0.0,0.3,33.5,33.8
+32,2026-10-24,Chapecoense,Fluminense,Chapecoense x Fluminense,0.1,23.2,10.0,0.1,33.5
+38,2026-12-02,Athletico-PR,São Paulo,Athletico-PR x São Paulo,0.2,20.2,11.7,1.3,33.4
+37,2026-11-29,Internacional,Bragantino,Internacional x Bragantino,0.0,0.6,7.1,25.1,32.8
+32,2026-10-24,Internacional,Botafogo,Internacional x Botafogo,0.0,0.1,2.9,28.8,31.8
+29,2026-10-07,Remo,Grêmio,Remo x Grêmio,0.0,0.0,0.0,30.9,30.9
+33,2026-10-29,Vasco,Flamengo,Vasco x Flamengo,18.1,0.0,0.2,12.4,30.8
+34,2026-11-03,Internacional,Coritiba,Internacional x Coritiba,0.0,0.1,1.8,28.6,30.5
+34,2026-11-02,Bragantino,Santos,Bragantino x Santos,0.0,4.9,24.6,0.9,30.4
+35,2026-11-18,Vitória,Bragantino,Vitória x Bragantino,0.0,0.6,6.9,21.9,29.4
+32,2026-10-24,Mirassol,São Paulo,Mirassol x São Paulo,0.0,0.4,4.6,24.0,28.9
+30,2026-10-11,Palmeiras,Corinthians,Palmeiras x Corinthians,15.4,0.2,0.3,12.6,28.5
+29,2026-10-07,Bragantino,Mirassol,Bragantino x Mirassol,0.0,0.4,5.8,20.8,27.0
+30,2026-10-10,São Paulo,Vitória,São Paulo x Vitória,0.0,0.2,3.9,22.5,26.5
+33,2026-10-29,Coritiba,Vitória,Coritiba x Vitória,0.0,0.1,1.4,24.8,26.3
+38,2026-12-02,Santos,Botafogo,Santos x Botafogo,0.0,3.4,19.4,3.3,26.1
+35,2026-11-18,Coritiba,Santos,Coritiba x Santos,0.0,3.9,18.7,3.5,26.1
+30,2026-10-10,Vasco,Remo,Vasco x Remo,0.0,0.0,0.2,25.9,26.0
+30,2026-10-12,Chapecoense,Athletico-PR,Chapecoense x Athletico-PR,0.2,20.3,5.4,0.0,25.9
+32,2026-10-24,Palmeiras,Bragantino,Palmeiras x Bragantino,16.0,1.0,7.4,0.6,24.9
+35,2026-11-18,Corinthians,Botafogo,Corinthians x Botafogo,0.0,0.1,2.6,20.5,23.2
+29,2026-10-07,Vitória,Chapecoense,Vitória x Chapecoense,0.0,0.0,0.1,22.9,23.0
+37,2026-11-29,Coritiba,Flamengo,Coritiba x Flamengo,17.1,0.3,3.0,2.6,22.9
+34,2026-11-04,São Paulo,Corinthians,São Paulo x Corinthians,0.0,0.3,4.2,17.4,22.0
+36,2026-11-22,Bragantino,Vasco,Bragantino x Vasco,0.0,0.6,6.3,14.1,21.0
+38,2026-12-02,Remo,Corinthians,Remo x Corinthians,0.0,0.0,0.2,20.7,20.9
+34,2026-11-03,Chapecoense,Mirassol,Chapecoense x Mirassol,0.0,0.0,0.0,20.9,20.9
+29,2026-10-07,Botafogo,Vasco,Botafogo x Vasco,0.0,0.1,2.0,18.6,20.7
+38,2026-12-02,Palmeiras,Coritiba,Palmeiras x Coritiba,14.5,0.6,3.5,2.1,20.6
+34,2026-11-05,Palmeiras,Remo,Palmeiras x Remo,12.7,0.3,0.0,7.4,20.5
+31,2026-10-17,São Paulo,Vasco,São Paulo x Vasco,0.0,0.3,4.4,15.7,20.4
+38,2026-12-02,Flamengo,Chapecoense,Flamengo x Chapecoense,18.1,0.0,0.0,0.3,18.4
+37,2026-11-29,Chapecoense,Palmeiras,Chapecoense x Palmeiras,14.5,0.2,0.0,0.1,14.8
+21,,Chapecoense,Vasco,Chapecoense x Vasco,0.0,0.0,0.2,14.6,14.7
+31,2026-10-18,Remo,Bragantino,Remo x Bragantino,0.0,0.5,6.4,6.3,13.2
+36,2026-11-22,Botafogo,São Paulo,Botafogo x São Paulo,0.0,0.4,7.2,5.5,13.1
+37,2026-11-29,São Paulo,Remo,São Paulo x Remo,0.0,0.2,3.5,9.1,12.9
+30,2026-10-12,Coritiba,Botafogo,Coritiba x Botafogo,0.0,0.2,4.0,8.0,12.3
+33,2026-10-28,Remo,Botafogo,Remo x Botafogo,0.0,0.1,2.2,9.3,11.6
+33,2026-10-28,Bragantino,Chapecoense,Bragantino x Chapecoense,0.0,0.4,5.6,1.5,7.5
+31,2026-10-17,Botafogo,Chapecoense,Botafogo x Chapecoense,0.0,0.1,1.6,5.0,6.7
+35,2026-11-18,Remo,Chapecoense,Remo x Chapecoense,0.0,0.0,0.0,4.7,4.7
